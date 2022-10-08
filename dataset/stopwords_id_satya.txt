@@ -60,9 +60,6 @@ belumlah
 sebelum
 sebelumnya
 sebenarnya
-berapa
-berapakah
-berapalah
 berapapun
 betulkah
 sebetulnya
@@ -70,12 +67,6 @@ biasa
 biasanya
 bila
 bilakah
-bisa
-bisakah
-sebisanya
-boleh
-bolehkah
-bolehlah
 buat
 bukan
 bukankah
@@ -89,9 +80,6 @@ dapat
 dari
 daripada
 dekat
-demi
-demikian
-demikianlah
 sedemikian
 dengan
 depan
@@ -159,7 +147,6 @@ dikarenakan
 karena
 karenanya
 ke
-kecil
 kemudian
 kenapa
 kepada
@@ -185,11 +172,6 @@ selaku
 lalu
 melalui
 terlalu
-lama
-lamanya
-selama
-selama
-selamanya
 lebih
 terlebih
 bermacam
